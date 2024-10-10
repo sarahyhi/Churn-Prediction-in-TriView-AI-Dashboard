@@ -6,6 +6,9 @@ Developed a dashboard combined with interactive data visualization, machine lear
 ### Final Dashboard:
 ![image](https://github.com/sarahyhi/Churn-Prediction-in-TriView-AI-Dashboard/blob/main/Dashboard.png)
 
+**Check My Project Presentation:** [Link](Presentation-final.pdf)
+
+
 
 ## Overview
 This project focuses on developing a predictive analytics dashboard for customer churn using machine learning techniques integrated with Tableau through TabPy. The aim is to provide real-time insights into customer behavior and predict potential churn to facilitate proactive business decisions.

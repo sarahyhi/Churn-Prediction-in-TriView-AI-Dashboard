@@ -21,20 +21,20 @@ This project focuses on developing a predictive analytics dashboard for customer
 - **Generative AI for Reporting**: Automatically generates insightful reports to summarize trends and predictions, streamlining communication with stakeholders.
 
 ### Project Workflow
-1. Data Preparation
-  - Data Cleaning and Analysis: Performed preprocessing tasks such as handling missing values, encoding categorical data, and normalizing features using Python libraries (*pandas, numpy*).
-  - Exploratory Analysis: Identified key attributes influencing churn through visualization (*matplotlib, seaborn*) and feature engineering.
-2. Machine Learning
-  - Trained multiple models on structured data to evaluate predictive accuracy.
-  - Selected the most suitable model based on performance metrics such as accuracy, precision, and recall.
-3. TabPy Setup
-  - Installed and configured TabPy for real-time model integration into Tableau.
-  - Exported preprocessed datasets and model outputs for compatibility with Tableau’s requirements.
-4. Prediction and Visualization
-  - Deployed machine learning predictions in Tableau using TabPy.
-  - Designed an interactive dashboard to display real-time predictions and visualize feature importance.
-5. Generative AI Extension
-  - Integrated a text-generation module to automate reporting, providing actionable insights based on prediction outcomes.
+**1. Data Preparation**
+    - Data Cleaning and Analysis: Performed preprocessing tasks such as handling missing values, encoding categorical data, and normalizing features using Python libraries (*pandas, numpy*).
+    - Exploratory Analysis: Identified key attributes influencing churn through visualization (*matplotlib, seaborn*) and feature engineering.
+**2. Machine Learning**
+    - Trained multiple models on structured data to evaluate predictive accuracy.
+    - Selected the most suitable model based on performance metrics such as accuracy, precision, and recall.
+**3. TabPy Setup**
+    - Installed and configured TabPy for real-time model integration into Tableau.
+    - Exported preprocessed datasets and model outputs for compatibility with Tableau’s requirements.
+**4. Prediction and Visualization**
+    - Deployed machine learning predictions in Tableau using TabPy.
+    - Designed an interactive dashboard to display real-time predictions and visualize feature importance.
+**5. Generative AI Extension**
+    - Integrated a text-generation module to automate reporting, providing actionable insights based on prediction outcomes.
 
 ---
 

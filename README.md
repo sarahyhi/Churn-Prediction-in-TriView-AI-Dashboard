@@ -5,7 +5,7 @@ Developed a dashboard combined with interactive data visualization, machine lear
 [Dataset Resource](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction/data)
 
 ### Final Dashboard:
-![image](https://github.com/sarahyhi/Churn-Prediction-in-TriView-AI-Dashboard/blob/main/Dashboard.png)
+![image](https://github.com/sarahyhi/Churn-Prediction-in-TriView-AI-Dashboard/blob/main/Dashboard 0506.png)
 
 **Check My Project Presentation:** [Link](Presentation-final.pdf)
 
